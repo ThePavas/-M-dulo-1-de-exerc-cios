@@ -1,0 +1,23 @@
+let soma = function(x,y){
+    return x + y;
+}
+
+
+let subtracao = function(x,y){
+    return x - y;
+}
+
+
+let multiplicacao = function(x,y){
+    return x * y;
+}
+
+
+let divisao = function(x,y){
+    return x / y;
+}
+
+console.log(soma(10,10));
+console.log(subtracao(10,10));
+console.log(multiplicacao(10,10));
+console.log(divisao(10,10));
