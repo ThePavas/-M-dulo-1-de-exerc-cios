@@ -1,16 +1,16 @@
 
-soma = 0;
-for(let i = 1; i<= 100; i++){
-    soma = soma + i;
-    
-}
-console.log(soma);
+    soma = 0;
+    for(let i = 1; i<= 100; i++){
+        soma = soma + i;
+        
+    }
+    console.log(soma);
 
-j = 0;
-somaJ = 0;
-while (j <=100){
-somaJ = somaJ + j;
-j++;
-}
+    j = 0;
+    somaJ = 0;
+    while (j <=100){
+    somaJ = somaJ + j;
+    j++;
+    }
 
-console.log(somaJ);
+    console.log(somaJ);
