@@ -1,0 +1,9 @@
+   pi = 3,14;
+
+  let premetro = function(r){
+      c = 2*pi*r;
+      return  c
+  }
+
+
+  console.log(premetro(10));
